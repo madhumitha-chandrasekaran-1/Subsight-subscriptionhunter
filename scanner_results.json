@@ -1,0 +1,94 @@
+
+Done. Found 10 subscriptions across 20 emails.
+
+=== Subscriptions Found ===
+{
+  "service_name": "Generative AI Fundamentals",
+  "price": null,
+  "currency": null,
+  "billing_cycle": null,
+  "next_billing_date": "2026-04-26",
+  "email_subject": "Your subscription has been canceled",
+  "email_date": "2026-04-20"
+}
+{
+  "service_name": "Google AI",
+  "price": null,
+  "currency": null,
+  "billing_cycle": null,
+  "next_billing_date": "2026-04-26",
+  "email_subject": "Your subscription has been canceled",
+  "email_date": "2026-04-18"
+}
+{
+  "service_name": "Premium",
+  "price": null,
+  "currency": null,
+  "billing_cycle": null,
+  "next_billing_date": null,
+  "email_subject": "Access even more perks included with your Premium subscription",
+  "email_date": "2026-04-13"
+}
+{
+  "service_name": "Hulu",
+  "price": null,
+  "currency": null,
+  "billing_cycle": null,
+  "next_billing_date": null,
+  "email_subject": "Your Subscription Will Be Canceled",
+  "email_date": "2026-04-04"
+}
+{
+  "service_name": "Claude Pro",
+  "price": null,
+  "currency": null,
+  "billing_cycle": null,
+  "next_billing_date": null,
+  "email_subject": "Your Claude Pro subscription was canceled",
+  "email_date": "2026-04-05"
+}
+{
+  "service_name": "Claude Pro",
+  "price": 20.0,
+  "currency": "USD",
+  "billing_cycle": "monthly",
+  "next_billing_date": "2026-04-13",
+  "email_subject": "Your receipt from Anthropic, PBC #2296-6336-7380",
+  "email_date": "2026-03-13"
+}
+{
+  "service_name": "iCloud+ with 200 GB",
+  "price": 2.99,
+  "currency": "USD",
+  "billing_cycle": "Monthly",
+  "next_billing_date": "2026-03-23",
+  "email_subject": "Your receipt from Apple.",
+  "email_date": "2026-02-24"
+}
+{
+  "service_name": "iCloud+",
+  "price": 2.99,
+  "currency": "USD",
+  "billing_cycle": "monthly",
+  "next_billing_date": "2026-03-23",
+  "email_subject": "Your Subscription is Confirmed",
+  "email_date": "2026-02-23"
+}
+{
+  "service_name": "Mint Mobile",
+  "price": null,
+  "currency": null,
+  "billing_cycle": "3-Month",
+  "next_billing_date": "2026-02-18",
+  "email_subject": "Your Mint Plan Renewal Date is Here in  5 days",
+  "email_date": "2026-02-12"
+}
+{
+  "service_name": "Premium",
+  "price": null,
+  "currency": null,
+  "billing_cycle": null,
+  "next_billing_date": null,
+  "email_subject": "Access even more perks included with your Premium subscription",
+  "email_date": "2025-12-21"
+}

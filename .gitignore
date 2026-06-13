@@ -1,0 +1,21 @@
+# Secrets
+.env
+credentials.json
+token.json
+
+# Database
+*.db
+*.db-wal
+*.db-shm
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# macOS
+.DS_Store

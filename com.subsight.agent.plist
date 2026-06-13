@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.subsight.agent</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/madhumithachandrasekaran/subscription-hunter/venv/bin/python</string>
+        <string>/Users/madhumithachandrasekaran/subscription-hunter/main.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/madhumithachandrasekaran/subscription-hunter</string>
+
+    <!-- Start immediately when loaded, and on every login -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <!-- Restart automatically if the process exits or crashes -->
+    <key>KeepAlive</key>
+    <true/>
+
+    <!-- Write stdout and stderr to the same log file -->
+    <key>StandardOutPath</key>
+    <string>/Users/madhumithachandrasekaran/subscription-hunter/subsight.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/madhumithachandrasekaran/subscription-hunter/subsight.log</string>
+</dict>
+</plist>
